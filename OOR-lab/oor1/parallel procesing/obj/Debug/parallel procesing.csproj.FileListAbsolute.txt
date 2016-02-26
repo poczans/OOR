@@ -1,0 +1,5 @@
+c:\users\michał\documents\visual studio 2012\Projects\parallel procesing\parallel procesing\bin\Debug\parallel procesing.exe
+c:\users\michał\documents\visual studio 2012\Projects\parallel procesing\parallel procesing\bin\Debug\parallel procesing.pdb
+c:\users\michał\documents\visual studio 2012\Projects\parallel procesing\parallel procesing\obj\Debug\parallel procesing.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2012\Projects\parallel procesing\parallel procesing\obj\Debug\parallel procesing.exe
+c:\users\michał\documents\visual studio 2012\Projects\parallel procesing\parallel procesing\obj\Debug\parallel procesing.pdb

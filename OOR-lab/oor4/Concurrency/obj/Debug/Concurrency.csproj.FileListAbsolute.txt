@@ -1,0 +1,6 @@
+C:\Users\Michał\Desktop\Nowy folder\Concurrency\bin\Debug\Concurrency.exe.config
+C:\Users\Michał\Desktop\Nowy folder\Concurrency\bin\Debug\Concurrency.exe
+C:\Users\Michał\Desktop\Nowy folder\Concurrency\bin\Debug\Concurrency.pdb
+C:\Users\Michał\Desktop\Nowy folder\Concurrency\obj\Debug\Concurrency.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\Nowy folder\Concurrency\obj\Debug\Concurrency.exe
+C:\Users\Michał\Desktop\Nowy folder\Concurrency\obj\Debug\Concurrency.pdb
